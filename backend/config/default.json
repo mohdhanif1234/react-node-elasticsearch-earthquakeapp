@@ -1,0 +1,9 @@
+{
+    "elastic": {
+      "cloudID": "your elastic cloud id",
+      "username": "your elastic cloud username",
+      "password": "your elastic cloud password",
+      "apiKey": "your api key"
+    }
+}
+ 
